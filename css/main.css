@@ -1,1 +1,28 @@
-/*Add your CSS*/
+body {
+  margin: 0 auto;
+
+  background-color: #5f42f4;
+}
+h1{
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+}
+p{
+  font-family: 'Pacifico', cursive;
+  color: #fff;
+}
+i{
+  color: #fff;
+  size: 50%;
+}
+h2{
+  color: #fff;
+  font-family: 'relaway' 'sans serife';
+}
+.splash{
+  background-color: #5f42f4;
+}
+#map-mobile{
+  width: 85vw;
+  height: 50vh;
+}
