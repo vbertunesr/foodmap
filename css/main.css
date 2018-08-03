@@ -9,20 +9,19 @@ h1{
 }
 p{
   font-family: 'Pacifico', cursive;
-  color: #fff;
+  color: #f47641;
 }
 i{
   color: #fff;
-  size: 50%;
 }
 h2{
-  color: #fff;
-  font-family: 'relaway' 'sans serife';
+  color: #f47641;
+  font-family: 'Pacifico', cursive;
 }
 .splash{
   background-color: #5f42f4;
 }
 #map-mobile{
   width: 85vw;
-  height: 50vh;
+  height: 40vh;
 }
